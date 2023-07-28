@@ -6,5 +6,5 @@ uses the operator overloading for removing the object which makes code easy
 
 
 
-my opengl file provides the basic sample for adding force and gravity and gives the hint for the collision detection
+my opengl file provides the basic simulation of change of light according to the position of the light source
 
